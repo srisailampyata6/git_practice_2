@@ -3,4 +3,5 @@ public class file2{
 	string s=15;
 	srisailam;
 	naresh;
+	adhya;
 }
